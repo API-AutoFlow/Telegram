@@ -16,4 +16,4 @@ this video includes 5 steps:
 
 Feel free to ask any question in the YouTube comment section
 or on our website:
-https://www.interactor.com/autoflow/questions/
+https://www.interactor.com/support/forum
